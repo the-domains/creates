@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Algunas de las piezas impresas por nuestra impresora. Presten especial atención al detalle.
-datePublished: '2016-04-06T16:57:56.726Z'
-dateModified: '2016-04-06T16:57:49.056Z'
+datePublished: '2016-04-06T17:11:22.200Z'
+dateModified: '2016-04-06T17:10:50.349Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-06-algunas-de-las-piezas-impresas-por-nuestra-impresora-preste.md
@@ -34,3 +34,4 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5e6ecc9-6d3e-4c2f-85a5-445c62821510.jpg)
 
 Algunas de las piezas impresas por nuestra impresora. Presten especial atención al detalle.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/74d92cc2-fd8f-4910-9f0c-5dce1658376c.jpg)
