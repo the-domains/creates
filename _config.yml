@@ -1,6 +1,6 @@
 name: creates
 favicon: null
-layout_spectrum: 0.18701
+layout_spectrum: 0
 typography_spectrum: 0.5985727764200419
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#747c89'
     - '#3d434f'
     - '#cce1f6'
-  brandStrength: 0.4609319001901895
-  lightness: 0.5926943293306977
-  saturation: 0.1811836869455874
-  rhythmicContrast: 0.8900568599347025
+  brandStrength: 0.25
+  lightness: 0.25
+  saturation: 0.375
+  rhythmicContrast: 0.25
 purpose: []
