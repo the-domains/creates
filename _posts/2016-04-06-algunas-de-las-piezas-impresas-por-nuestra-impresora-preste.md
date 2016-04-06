@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Algunas de las piezas impresas por nuestra impresora. Presten especial atención al detalle.
-datePublished: '2016-04-06T16:57:05.015Z'
-dateModified: '2016-04-06T16:55:55.101Z'
+datePublished: '2016-04-06T16:57:56.726Z'
+dateModified: '2016-04-06T16:57:49.056Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-06-algunas-de-las-piezas-impresas-por-nuestra-impresora-preste.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-06-algunas-de-las-piezas-impresas-por-nuestra-impresora-preste.md
-published: true
 url: algunas-de-las-piezas-impresas-por-nuestra-impresora-preste/index.html
 _type: Article
 
