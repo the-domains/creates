@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Este es el sitio de Creates, hoy tenemos impresoras 3D tipo delta, mañana es el futuro y todavia no sabemos q vamos a crear...'
-datePublished: '2016-04-06T16:42:46.870Z'
-dateModified: '2016-04-06T16:42:27.562Z'
+datePublished: '2016-04-06T17:14:42.638Z'
+dateModified: '2016-04-06T17:14:41.881Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-06-este-es-el-sitio-de-creates-hoy-tenemos-impresoras-3d-tipo.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-06-este-es-el-sitio-de-creates-hoy-tenemos-impresoras-3d-tipo.md
-published: true
 url: este-es-el-sitio-de-creates-hoy-tenemos-impresoras-3d-tipo/index.html
 _type: Article
 
