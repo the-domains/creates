@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: mail
-datePublished: '2016-04-06T17:32:44.630Z'
-dateModified: '2016-04-06T17:30:39.368Z'
+datePublished: '2016-04-06T17:44:42.422Z'
+dateModified: '2016-04-06T17:37:35.074Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-06-cualquier-consulta-no-sean-timidos-infocreatescc.md
@@ -22,9 +22,8 @@ url: cualquier-consulta-no-sean-timidos-infocreatescc/index.html
 _type: Article
 
 ---
-[mail][0]
+info@creates.cc
 
-[fb][1]
+[FB][0]
 
-[0]: info@creates.cc
-[1]: www.fb.com/creates.cc.world
+[0]: www.fb.com/creates.cc.world
