@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Algunas de las piezas impresas por nuestra impresora. Presten especial atención al detalle.
-datePublished: '2016-04-06T17:11:22.200Z'
-dateModified: '2016-04-06T17:10:50.349Z'
+datePublished: '2016-04-06T17:12:20.386Z'
+dateModified: '2016-04-06T17:12:18.750Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-06-algunas-de-las-piezas-impresas-por-nuestra-impresora-preste.md
@@ -22,6 +22,7 @@ url: algunas-de-las-piezas-impresas-por-nuestra-impresora-preste/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/74d92cc2-fd8f-4910-9f0c-5dce1658376c.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a38669d3-7f53-45aa-8167-838180ce5c25.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/396c745b-9abb-46e3-b104-38211c98b0eb.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8528ff1a-dc22-4286-99fa-917fa46bbee9.jpg)
@@ -34,4 +35,3 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5e6ecc9-6d3e-4c2f-85a5-445c62821510.jpg)
 
 Algunas de las piezas impresas por nuestra impresora. Presten especial atención al detalle.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/74d92cc2-fd8f-4910-9f0c-5dce1658376c.jpg)
