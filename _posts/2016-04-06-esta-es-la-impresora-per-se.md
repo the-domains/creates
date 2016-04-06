@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'Esta es la impresora "per se"'
-datePublished: '2016-04-06T17:23:13.380Z'
-dateModified: '2016-04-06T17:22:58.858Z'
+datePublished: '2016-04-06T17:32:54.634Z'
+dateModified: '2016-04-06T17:31:49.498Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-06-esta-es-la-impresora-per-se.md
